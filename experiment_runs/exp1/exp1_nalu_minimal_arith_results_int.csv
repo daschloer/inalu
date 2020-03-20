@@ -1,0 +1,1121 @@
+,epoch,steps,name,nalu,dist,param,extp,seed,op,trainloss,loss,reinits,exp
+0,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",104,add,4.03353E-01,4.43193E-01,0,int
+1,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",100,div,1.27818E+02,3.03679E+04,9,int
+2,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",104,add,1.66356E-14,1.01547E-14,0,int
+3,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",105,div,7.41169E+01,7.41584E+04,9,int
+4,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",108,sub,5.94796E+00,6.15172E+00,9,int
+5,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,108,mul,4.27775E-09,3.65019E-07,0,int
+6,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",103,div,5.96394E+01,6.98262E+04,9,int
+7,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",106,div,2.40190E-14,3.77144E-09,2,int
+8,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",105,div,2.34216E+01,6.30738E+04,9,int
+9,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",109,add,2.14194E-01,1.24459E-01,0,int
+10,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",103,mul,6.68159E-01,9.33254E-01,2,int
+11,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",102,mul,2.00737E+00,9.79611E-01,0,int
+12,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,102,add,5.83404E-02,4.99887E-02,0,int
+13,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",102,mul,3.17385E-01,3.61545E-01,0,int
+14,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,105,add,1.11110E-06,3.48069E-07,0,int
+15,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",108,mul,3.35289E-01,3.62293E-01,0,int
+16,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,100,div,8.15810E+01,3.92381E+03,9,int
+17,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",109,mul,2.71113E-01,9.73204E-01,0,int
+18,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",104,add,5.31286E-15,3.73149E-15,0,int
+19,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",108,mul,1.05933E+00,1.01756E+00,9,int
+20,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",107,div,5.75570E+02,2.19516E+05,9,int
+21,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,105,mul,1.10604E-06,3.45187E-07,0,int
+22,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",108,mul,7.86010E-13,7.72299E-13,0,int
+23,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",103,mul,3.42902E+01,5.57011E+01,9,int
+24,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",104,sub,4.81177E-15,3.74252E-15,0,int
+25,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,106,div,3.49642E+00,4.62435E+04,9,int
+26,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",104,add,4.03353E-01,4.43193E-01,0,int
+27,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",103,div,1.37640E+02,1.60077E+05,9,int
+28,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",101,div,7.59926E-12,1.02102E-08,2,int
+29,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",108,add,1.07711E-15,1.15483E-15,0,int
+30,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",108,mul,2.66710E+00,2.89503E+00,9,int
+31,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",109,sub,2.78622E-01,2.77620E-01,0,int
+32,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",107,sub,2.78805E-14,3.48053E-14,0,int
+33,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",105,add,1.08631E-14,9.97016E-15,0,int
+34,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",102,add,6.49166E-16,1.14881E-15,0,int
+35,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",103,mul,7.25656E-01,1.05238E+00,1,int
+36,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",101,add,3.57168E-01,1.30365E-01,0,int
+37,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",101,add,3.69751E-01,4.46767E-01,0,int
+38,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",100,div,1.32081E+02,8.61310E+05,9,int
+39,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",102,sub,7.69767E+00,6.50515E+00,3,int
+40,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",108,sub,5.94796E+00,6.15172E+00,9,int
+41,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,103,div,4.74507E+03,1.14024E+05,9,int
+42,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",107,mul,2.33996E-01,9.95541E-01,0,int
+43,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",100,mul,1.18151E+00,1.03316E+00,8,int
+44,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",103,sub,6.93403E-01,7.24803E-01,0,int
+45,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",104,sub,1.50037E-15,1.13635E-15,0,int
+46,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,101,mul,4.34680E-03,6.44821E-03,0,int
+47,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,101,add,2.38809E-16,3.97276E-16,0,int
+48,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",103,div,5.81422E+01,6.98276E+04,9,int
+49,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",105,mul,2.67913E-01,9.83579E-01,0,int
+50,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",100,mul,1.18151E+00,1.03316E+00,8,int
+51,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",105,sub,6.61511E-01,8.18177E-01,3,int
+52,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",103,div,5.87659E+01,6.98271E+04,9,int
+53,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,102,sub,5.05839E-02,8.02711E-02,0,int
+54,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",107,sub,4.05665E-15,3.78994E-15,0,int
+55,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",108,mul,1.05933E+00,1.01756E+00,9,int
+56,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",106,div,6.29119E-11,7.14957E-09,1,int
+57,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",100,mul,2.33640E-01,2.93816E-01,0,int
+58,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",103,mul,3.63054E-01,1.01279E+00,7,int
+59,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",100,mul,2.83290E+00,2.89093E+00,9,int
+60,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",100,div,1.19303E-12,1.37988E-07,2,int
+61,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,103,div,4.04477E+03,1.08238E+05,9,int
+62,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,108,div,1.12755E-12,1.23448E-08,5,int
+63,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",103,sub,3.54955E-14,3.37756E-14,8,int
+64,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,101,div,2.10145E-09,3.27070E-08,6,int
+65,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",109,add,1.92902E-15,1.14947E-15,0,int
+66,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",104,sub,4.81177E-15,3.74252E-15,2,int
+67,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",102,sub,7.98325E-01,8.29989E-01,1,int
+68,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,102,sub,5.94000E-01,7.68633E-01,1,int
+69,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",108,sub,2.59281E-01,2.77191E-01,0,int
+70,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",100,div,3.89208E-12,1.97647E-08,2,int
+71,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",102,add,3.82902E-15,3.66859E-15,0,int
+72,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",101,mul,1.41204E+00,9.48855E-01,0,int
+73,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,100,mul,5.22274E-15,9.78789E-15,0,int
+74,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",100,mul,1.00472E-12,7.74312E-13,0,int
+75,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,109,add,5.98023E-02,4.98302E-02,0,int
+76,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",105,mul,3.55878E+01,3.39606E+02,9,int
+77,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,105,div,1.39907E-13,8.57351E-08,7,int
+78,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",109,add,1.94950E-01,1.85872E-01,0,int
+79,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",102,add,1.28760E-14,1.02380E-14,0,int
+80,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",105,div,6.11466E+02,3.29788E+05,9,int
+81,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,104,mul,2.18753E-06,1.63995E-06,0,int
+82,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",103,sub,6.26566E-15,4.89375E-15,2,int
+83,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",102,div,1.15206E-14,4.24688E-10,1,int
+84,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",104,div,5.74457E+00,6.25529E+03,9,int
+85,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",106,add,1.16374E-14,1.00220E-14,0,int
+86,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",108,div,2.93391E+01,7.74202E+03,9,int
+87,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",108,add,5.24778E-01,4.50495E-01,0,int
+88,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",108,div,1.39757E+01,4.40012E+04,9,int
+89,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",103,mul,7.96191E-13,7.80374E-13,0,int
+90,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",107,sub,2.66726E-01,2.80274E-01,0,int
+91,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",104,mul,7.47308E-13,7.74856E-13,0,int
+92,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",103,add,1.80164E-01,1.84634E-01,0,int
+93,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",109,div,2.98405E+01,1.00281E+05,9,int
+94,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,107,mul,2.73138E-07,1.56717E-06,0,int
+95,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,106,sub,2.36245E-15,3.29567E-15,0,int
+96,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",106,add,8.84073E-02,4.04800E-02,0,int
+97,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",102,sub,1.07591E+00,7.75804E-01,1,int
+98,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,105,add,9.80254E-17,3.94958E-16,0,int
+99,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,105,div,2.45493E-03,3.66153E+02,7,int
+100,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",108,add,1.07711E-15,1.15483E-15,0,int
+101,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",107,add,3.36984E+00,3.45586E+00,2,int
+102,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",105,sub,7.38580E-15,4.90577E-15,0,int
+103,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,100,sub,5.63972E-15,3.25259E-15,0,int
+104,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",104,sub,2.82389E-01,2.78518E-01,0,int
+105,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",100,add,3.59857E+00,3.47000E+00,1,int
+106,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,100,sub,9.18653E-01,8.91326E-01,1,int
+107,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",103,sub,2.36592E-01,2.77389E-01,0,int
+108,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,102,add,2.55872E-16,3.97586E-16,0,int
+109,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,106,mul,6.09305E-07,3.85206E-07,0,int
+110,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",101,mul,3.55057E-16,3.55870E-16,0,int
+111,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,105,mul,3.44642E-03,6.42683E-03,0,int
+112,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",100,div,1.16708E-12,3.09458E-07,2,int
+113,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,105,sub,5.19965E-02,8.01135E-02,0,int
+114,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",103,sub,3.51439E-15,3.61875E-15,3,int
+115,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",102,div,9.51072E+00,6.22746E+03,9,int
+116,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",104,sub,5.07691E-15,4.89363E-15,2,int
+117,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",103,add,1.00354E-15,1.15597E-15,0,int
+118,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",103,mul,2.08476E+00,2.80929E+00,1,int
+119,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,105,add,1.11110E-06,3.48069E-07,0,int
+120,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",103,mul,2.72497E-01,3.58230E-01,0,int
+121,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,100,add,1.10793E-06,3.61147E-07,0,int
+122,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",108,mul,2.69695E-16,3.59184E-16,0,int
+123,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",105,sub,5.17403E-01,7.26570E-01,0,int
+124,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",100,div,1.27818E+02,3.03679E+04,9,int
+125,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",103,add,6.71685E-15,1.00936E-14,0,int
+126,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",104,add,2.01304E-01,1.84104E-01,0,int
+127,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",103,div,5.96394E+01,6.98262E+04,9,int
+128,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,107,sub,7.64669E-01,7.67958E-01,2,int
+129,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,100,sub,9.18653E-01,8.91326E-01,1,int
+130,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",107,div,5.93890E-11,3.26755E-09,2,int
+131,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",100,div,2.59570E+02,3.64943E+06,9,int
+132,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",104,div,2.56163E+00,7.75994E+04,9,int
+133,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,105,mul,2.23859E-15,9.61701E-15,0,int
+134,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",103,sub,6.26566E-15,4.89375E-15,0,int
+135,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,102,sub,3.94743E-15,3.33807E-15,0,int
+136,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",106,add,2.93255E-15,3.70275E-15,0,int
+137,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,102,sub,3.94743E-15,3.33807E-15,0,int
+138,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",101,mul,2.60574E-15,3.68110E-15,0,int
+139,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",103,sub,1.39274E-15,1.17618E-15,0,int
+140,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",102,mul,2.00737E+00,9.79611E-01,0,int
+141,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",105,div,2.20093E+01,6.30734E+04,9,int
+142,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",107,add,1.15465E-14,1.01825E-14,0,int
+143,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,108,sub,2.77740E-15,3.31502E-15,0,int
+144,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",101,sub,9.37532E-01,8.41121E-01,1,int
+145,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",100,sub,4.30690E-15,4.92538E-15,3,int
+146,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",109,add,4.63827E-15,3.75283E-15,0,int
+147,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,100,mul,1.55951E-06,1.60720E-06,0,int
+148,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,109,div,1.01019E-01,2.54762E+02,9,int
+149,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",104,sub,6.15614E-01,7.26396E-01,0,int
+150,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",109,mul,3.16194E-01,3.61235E-01,0,int
+151,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",104,add,3.07726E+00,3.45715E+00,1,int
+152,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,101,div,1.09010E+04,8.97897E+04,8,int
+153,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",104,add,2.01304E-01,1.84104E-01,0,int
+154,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",100,mul,1.66003E-15,3.71869E-15,0,int
+155,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",108,mul,1.77598E-15,3.74665E-15,0,int
+156,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,102,add,6.11847E-07,3.76046E-07,0,int
+157,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,101,div,2.10145E-09,3.27070E-08,2,int
+158,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",105,sub,7.42671E-01,8.33939E-01,3,int
+159,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",102,mul,1.70233E+00,9.99900E-01,3,int
+160,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",100,sub,8.96189E+00,1.15607E+01,9,int
+161,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,105,sub,1.81147E-16,2.03550E-16,0,int
+162,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,108,div,3.33292E+00,1.19083E+04,9,int
+163,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",109,add,8.58341E-15,1.00268E-14,0,int
+164,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",104,mul,1.09428E+00,1.08541E+00,1,int
+165,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",106,add,1.16374E-14,1.00220E-14,0,int
+166,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,104,div,2.70684E+00,6.49648E+04,9,int
+167,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",104,mul,1.23293E+00,9.44074E-01,2,int
+168,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",103,mul,3.63054E-01,1.01279E+00,7,int
+169,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,107,sub,5.14259E-15,3.26746E-15,0,int
+170,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",108,div,1.37648E+01,4.39768E+04,9,int
+171,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",105,mul,2.40008E-01,3.61134E-01,0,int
+172,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",102,add,1.23954E-01,1.28292E-01,0,int
+173,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",108,add,1.05922E-14,1.02259E-14,0,int
+174,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",100,div,7.58985E+01,3.62808E+06,9,int
+175,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",109,mul,4.92794E+01,5.60527E+01,9,int
+176,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",107,div,5.57130E+02,2.19522E+05,9,int
+177,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",108,mul,5.47753E+01,5.59125E+01,9,int
+178,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",102,add,4.00145E+00,3.45458E+00,1,int
+179,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",101,sub,6.22094E-15,4.94404E-15,0,int
+180,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,100,sub,1.04545E-01,8.04027E-02,0,int
+181,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,104,div,2.27517E-01,3.07461E+03,9,int
+182,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",106,mul,1.61231E+00,1.58224E+00,9,int
+183,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",106,add,1.43843E-14,1.01492E-14,0,int
+184,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,106,div,3.37159E+01,5.49479E+05,9,int
+185,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",103,add,4.45234E-14,3.34645E-14,0,int
+186,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,104,add,3.32782E-09,3.36835E-07,0,int
+187,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,107,add,6.74807E-16,3.98850E-16,0,int
+188,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",105,sub,2.49661E-14,3.37510E-14,0,int
+189,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",101,mul,1.84318E+00,9.94718E-01,0,int
+190,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",106,add,4.64009E-01,4.48016E-01,0,int
+191,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",105,sub,2.08464E-01,2.78482E-01,0,int
+192,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",100,div,5.23352E+02,1.26664E+06,9,int
+193,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",106,mul,2.99509E-01,2.93035E-01,0,int
+194,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",107,sub,8.60429E-01,9.51221E-01,1,int
+195,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,108,add,5.36936E-02,5.05195E-02,0,int
+196,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,103,sub,5.18676E-02,7.95557E-02,0,int
+197,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",104,sub,5.75829E+00,6.53181E+00,9,int
+198,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",101,add,5.45397E-15,9.86742E-15,0,int
+199,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,108,div,4.33919E+01,4.83241E+04,9,int
+200,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",107,sub,2.78805E-14,3.48053E-14,1,int
+201,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",101,mul,1.66982E+00,1.03735E+00,9,int
+202,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",105,mul,8.68613E-01,1.30207E+00,9,int
+203,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",101,div,2.25623E-03,1.04222E+00,9,int
+204,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,107,mul,7.36551E-03,6.46782E-03,0,int
+205,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,109,sub,2.23209E-16,2.07198E-16,0,int
+206,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",104,add,1.07067E-14,1.03435E-14,0,int
+207,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",104,add,2.62967E-14,3.40693E-14,0,int
+208,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",106,sub,9.50192E-01,8.18179E-01,2,int
+209,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",102,add,2.77937E-14,3.37769E-14,0,int
+210,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",107,sub,2.66726E-01,2.80274E-01,0,int
+211,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",101,add,4.28645E+00,3.44405E+00,1,int
+212,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,104,div,2.70684E+00,6.49648E+04,9,int
+213,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",101,div,2.46821E-03,7.49902E-01,9,int
+214,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",105,sub,3.86778E-15,4.95780E-15,1,int
+215,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,109,add,7.06913E-16,3.99223E-16,0,int
+216,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,107,sub,7.29114E-02,8.06617E-02,0,int
+217,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",108,sub,8.00683E-16,1.15277E-15,0,int
+218,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",102,div,6.16537E-13,1.98069E-08,2,int
+219,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",109,sub,7.06350E-01,7.71348E-01,1,int
+220,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",101,div,4.37370E+01,1.36180E+04,9,int
+221,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",103,mul,1.91550E-15,3.66278E-15,0,int
+222,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",104,sub,5.75829E+00,6.53181E+00,9,int
+223,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",107,mul,7.63794E-02,1.12389E-01,0,int
+224,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",101,sub,9.37532E-01,8.41121E-01,1,int
+225,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,104,div,1.85258E-13,5.09562E-08,8,int
+226,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,109,sub,7.95245E-02,8.01061E-02,0,int
+227,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",105,sub,4.19864E+00,6.19784E+00,5,int
+228,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,109,mul,1.83548E-06,1.59677E-06,0,int
+229,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",102,sub,8.21607E-01,7.28023E-01,0,int
+230,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",109,mul,3.16194E-01,3.61235E-01,0,int
+231,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",106,div,1.77699E+03,6.79290E+04,9,int
+232,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",101,add,8.16795E-15,1.01210E-14,0,int
+233,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",105,div,6.17483E+01,7.13844E+04,9,int
+234,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",100,div,1.98167E+02,8.80120E+05,9,int
+235,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,108,add,4.49750E-09,3.69350E-07,0,int
+236,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,109,div,1.95571E+01,1.26045E+05,9,int
+237,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",107,div,3.10223E+01,5.55556E+03,9,int
+238,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",103,sub,5.68800E-15,4.81848E-15,0,int
+239,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",101,add,4.13428E-15,3.66040E-15,0,int
+240,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",106,sub,2.81049E-01,2.77261E-01,0,int
+241,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",103,add,5.34038E-02,3.84879E-02,0,int
+242,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,103,mul,5.14904E-15,1.10679E-14,0,int
+243,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",109,mul,3.07497E-16,3.50374E-16,0,int
+244,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,109,mul,9.12987E-07,3.29464E-07,0,int
+245,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",106,mul,7.84112E-01,9.49892E-01,0,int
+246,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,108,add,3.51282E-16,3.95102E-16,0,int
+247,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",101,mul,1.12988E+00,9.54368E-01,0,int
+248,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",103,div,4.04793E+00,2.40136E+04,9,int
+249,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",106,div,9.25987E-05,1.34243E+01,9,int
+250,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,109,add,6.08672E-02,5.06351E-02,0,int
+251,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",107,add,1.56766E-15,1.15514E-15,0,int
+252,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,100,mul,6.53163E-03,6.27428E-03,0,int
+253,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",109,sub,7.06350E-01,7.71348E-01,1,int
+254,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",102,div,1.13498E+01,6.31189E+05,9,int
+255,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",104,mul,4.66516E+01,5.61923E+01,2,int
+256,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,109,add,9.22230E-07,3.33020E-07,0,int
+257,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",102,sub,7.98325E-01,8.29989E-01,1,int
+258,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",105,mul,4.34451E-13,7.73588E-13,0,int
+259,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",107,div,2.66941E+03,5.22326E+04,9,int
+260,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",105,mul,8.68613E-01,1.30207E+00,9,int
+261,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",101,div,4.25737E+01,1.36181E+04,9,int
+262,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",108,sub,8.39216E-15,4.91993E-15,0,int
+263,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,101,add,1.18828E-06,3.69415E-07,0,int
+264,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,104,mul,5.95443E-14,1.06784E-14,0,int
+265,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",106,sub,1.24337E-15,1.14567E-15,0,int
+266,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",108,sub,6.88815E-15,4.87526E-15,0,int
+267,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,101,add,1.18828E-06,3.69415E-07,0,int
+268,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",107,sub,1.14925E-15,1.13824E-15,0,int
+269,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,107,div,4.33182E-02,5.62360E+03,9,int
+270,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,105,div,6.68873E+00,6.71574E+05,9,int
+271,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",101,sub,3.75394E-14,3.38859E-14,0,int
+272,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",108,sub,1.11450E+00,1.09545E+00,9,int
+273,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,104,mul,4.35862E-02,6.29885E-03,0,int
+274,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",109,div,2.23005E+01,1.30943E+08,9,int
+275,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",100,add,3.59857E+00,3.47000E+00,1,int
+276,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",106,mul,6.05030E+01,5.57424E+01,9,int
+277,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,106,sub,1.47653E-16,2.05979E-16,0,int
+278,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,108,mul,1.89428E-06,1.57095E-06,0,int
+279,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,102,sub,5.05839E-02,8.02711E-02,0,int
+280,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,109,add,1.13106E-14,6.38757E-15,0,int
+281,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",101,sub,4.46518E-15,3.79786E-15,0,int
+282,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",109,add,3.14173E-02,4.02353E-02,0,int
+283,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",107,mul,3.59874E-16,3.55211E-16,0,int
+284,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",107,sub,8.54532E-01,8.20337E-01,3,int
+285,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,102,div,3.41290E-11,4.24839E-08,1,int
+286,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",104,mul,1.07929E-01,1.11288E-01,0,int
+287,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,103,sub,1.61394E-15,3.21748E-15,0,int
+288,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",100,add,1.04439E-14,1.03315E-14,0,int
+289,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,100,div,1.96512E+02,5.88497E+03,9,int
+290,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",109,mul,1.38481E-14,2.11883E-14,0,int
+291,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,105,div,2.70324E+00,5.19736E+05,9,int
+292,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",109,div,3.90111E-02,3.04305E+05,9,int
+293,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",102,div,6.14926E-14,2.21394E-09,2,int
+294,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,102,mul,1.60122E-06,1.62087E-06,0,int
+295,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",107,mul,7.63032E-13,7.90143E-13,0,int
+296,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",106,div,1.36558E-05,1.16887E+00,9,int
+297,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,109,div,1.27720E-04,8.04196E+01,3,int
+298,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",103,sub,5.11739E-01,6.63216E-01,2,int
+299,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,106,div,3.34059E-13,4.24031E-07,3,int
+300,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,106,add,6.19296E-15,6.27530E-15,0,int
+301,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,106,add,6.02070E-02,4.94214E-02,0,int
+302,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",102,add,1.46349E-01,1.84367E-01,0,int
+303,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",101,add,8.16795E-15,1.01210E-14,0,int
+304,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",109,sub,5.80215E+00,6.51951E+00,4,int
+305,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",100,mul,2.81677E-14,2.06815E-14,0,int
+306,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",105,div,1.05284E+01,5.42118E+04,9,int
+307,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",101,mul,1.38554E-12,7.88294E-13,0,int
+308,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,109,div,1.27720E-04,8.04196E+01,3,int
+309,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",107,sub,8.60429E-01,9.51221E-01,1,int
+310,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",105,div,1.01241E+01,5.42117E+04,9,int
+311,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",100,mul,1.08755E+00,9.95544E-01,2,int
+312,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,105,div,9.50502E-01,4.41273E+04,9,int
+313,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,100,mul,1.55951E-06,1.60720E-06,0,int
+314,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",104,div,2.54532E+01,8.24765E+05,9,int
+315,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",108,sub,8.39216E-15,4.91993E-15,0,int
+316,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,106,add,6.02070E-02,4.94214E-02,0,int
+317,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,105,add,1.56841E-15,6.31932E-15,0,int
+318,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,102,div,4.77510E+02,5.17491E+05,9,int
+319,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",102,div,9.51072E+00,6.22746E+03,9,int
+320,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,109,sub,7.77285E-01,6.92895E-01,2,int
+321,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",105,sub,2.49661E-14,3.37510E-14,7,int
+322,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",106,sub,7.97118E-01,7.51530E-01,2,int
+323,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",107,mul,8.04107E-01,1.28531E+00,9,int
+324,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",109,add,3.14173E-02,4.02353E-02,0,int
+325,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",109,mul,6.62262E-13,7.58943E-13,0,int
+326,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,108,mul,1.60129E-15,1.02654E-14,0,int
+327,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",102,div,1.13498E+01,6.31189E+05,9,int
+328,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",101,sub,5.69358E-15,4.99238E-15,0,int
+329,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",101,mul,3.83022E-01,3.62966E-01,0,int
+330,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",109,mul,7.97286E-01,9.40916E-01,0,int
+331,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",100,mul,5.45059E-16,3.55876E-16,0,int
+332,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",108,div,3.96638E+02,2.99487E+04,9,int
+333,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",103,add,3.65144E-01,4.49374E-01,0,int
+334,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",101,sub,1.21647E+00,7.63996E-01,1,int
+335,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",104,mul,2.84137E-01,9.58447E-01,0,int
+336,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,102,mul,2.62146E-15,9.69824E-15,0,int
+337,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",102,mul,1.37882E+00,1.17148E+00,3,int
+338,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",102,mul,1.15952E+00,9.57967E-01,3,int
+339,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",100,sub,8.96189E+00,1.15607E+01,9,int
+340,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",109,div,2.23005E+01,1.30943E+08,9,int
+341,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",108,div,1.42352E+01,4.40024E+04,9,int
+342,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",104,sub,2.82389E-01,2.78518E-01,0,int
+343,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",102,add,7.09367E-01,4.47479E-01,0,int
+344,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",109,div,2.98405E+01,1.00281E+05,9,int
+345,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",108,mul,7.86010E-13,7.72300E-13,0,int
+346,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,108,mul,4.27775E-09,3.65019E-07,0,int
+347,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,108,mul,3.15495E-03,6.39012E-03,0,int
+348,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,102,div,3.92458E+02,3.80255E+05,9,int
+349,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",107,mul,5.70403E-01,9.65532E-01,0,int
+350,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,109,mul,1.83548E-06,1.59677E-06,0,int
+351,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,103,div,1.41716E+02,3.29176E+04,9,int
+352,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",107,sub,8.54532E-01,8.20337E-01,3,int
+353,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",103,mul,7.96191E-13,7.80373E-13,0,int
+354,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",102,add,1.28760E-14,1.02380E-14,0,int
+355,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",108,add,9.70887E-15,1.00876E-14,0,int
+356,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",103,sub,5.56479E+00,6.47429E+00,6,int
+357,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",105,mul,3.93049E-01,9.39918E-01,0,int
+358,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",104,mul,1.16683E+00,1.21106E+00,2,int
+359,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",109,sub,8.08395E-16,1.16071E-15,0,int
+360,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",107,sub,3.57093E-15,4.92121E-15,1,int
+361,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",103,add,5.35444E-15,3.78107E-15,0,int
+362,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",104,div,2.58221E+01,8.24852E+05,9,int
+363,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,101,mul,4.34680E-03,6.44821E-03,0,int
+364,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",107,add,3.94603E-02,4.29507E-02,0,int
+365,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,108,sub,5.09449E-02,8.00302E-02,0,int
+366,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,107,mul,1.94405E-14,1.02525E-14,0,int
+367,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",101,add,1.74179E-02,3.82367E-02,0,int
+368,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",103,mul,3.42902E+01,5.57011E+01,9,int
+369,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,101,div,1.49028E+02,1.37958E+03,9,int
+370,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,107,add,1.07969E-14,6.38160E-15,0,int
+371,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,105,add,1.56841E-15,6.31932E-15,0,int
+372,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",100,sub,3.39704E-15,4.93416E-15,0,int
+373,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",105,div,9.50368E+00,5.42125E+04,9,int
+374,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",103,div,2.43880E-04,8.13141E-01,9,int
+375,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",106,add,1.43843E-14,1.01492E-14,0,int
+376,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",103,div,1.59237E-03,5.38558E+00,9,int
+377,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",107,div,6.04585E-11,7.90795E-10,6,int
+378,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",101,div,4.37370E+01,1.36180E+04,9,int
+379,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,103,add,1.06521E-07,3.22426E-07,0,int
+380,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",104,div,2.58221E+01,8.24852E+05,9,int
+381,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,109,add,1.13106E-14,6.38757E-15,0,int
+382,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",109,sub,2.78622E-01,2.77620E-01,0,int
+383,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,103,mul,1.05202E-07,3.19890E-07,0,int
+384,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",102,mul,3.68101E-16,3.57193E-16,0,int
+385,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",105,mul,6.09713E-01,9.46420E-01,1,int
+386,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",103,div,1.36397E+02,3.44177E+04,9,int
+387,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",105,add,1.89085E-15,1.14474E-15,0,int
+388,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",100,div,2.75983E+01,1.35559E+06,9,int
+389,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",101,sub,1.21647E+00,7.63996E-01,1,int
+390,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",106,div,5.49410E+00,1.72956E+04,9,int
+391,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",104,add,2.76627E-02,1.25489E-01,0,int
+392,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,105,mul,3.44642E-03,6.42683E-03,0,int
+393,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",106,div,4.88132E+00,4.95059E+05,9,int
+394,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",108,div,3.94522E+02,2.99493E+04,9,int
+395,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",100,sub,3.61210E-01,2.78835E-01,0,int
+396,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",109,div,2.14973E+01,1.30943E+08,9,int
+397,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",108,mul,5.27753E-15,2.06350E-14,0,int
+398,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",107,div,5.82789E-11,7.74033E-10,6,int
+399,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",105,div,7.45057E+01,7.41547E+04,9,int
+400,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",102,sub,2.94827E-15,4.95482E-15,0,int
+401,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",105,mul,7.69888E-01,1.10396E+00,3,int
+402,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",103,add,2.77383E-01,1.24317E-01,0,int
+403,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,104,mul,2.18753E-06,1.63995E-06,0,int
+404,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",108,sub,3.55029E-14,3.42231E-14,0,int
+405,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,105,div,6.68873E+00,6.71574E+05,9,int
+406,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",105,add,1.52961E-01,1.85546E-01,0,int
+407,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",106,div,6.29119E-11,7.14957E-09,1,int
+408,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,109,mul,9.12987E-07,3.29464E-07,0,int
+409,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",108,mul,1.77636E-15,3.74718E-15,0,int
+410,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",100,mul,2.33640E-01,2.93816E-01,0,int
+411,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",100,mul,1.00472E-12,7.74313E-13,0,int
+412,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",105,div,6.19364E+02,3.29752E+05,9,int
+413,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",106,div,6.32828E+00,4.95083E+05,9,int
+414,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,104,add,8.16487E-02,5.05843E-02,0,int
+415,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",100,add,1.02570E-15,1.14640E-15,0,int
+416,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",107,add,2.22817E-14,3.48379E-14,0,int
+417,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,100,div,1.42946E-10,9.72209E-09,2,int
+418,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,103,add,3.33067E-16,3.92189E-16,0,int
+419,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",100,add,1.88989E-15,3.61523E-15,0,int
+420,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,104,add,3.79557E-15,6.35337E-15,0,int
+421,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",100,mul,1.06938E+00,1.09158E+00,1,int
+422,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",100,div,2.75983E+01,1.35559E+06,9,int
+423,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",107,mul,5.70403E-01,9.65532E-01,0,int
+424,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",109,add,3.78478E-01,4.46638E-01,0,int
+425,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,106,mul,1.08336E-02,6.32695E-03,0,int
+426,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,105,mul,6.01483E-03,7.74806E-03,0,int
+427,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",108,div,1.44416E+01,4.40018E+04,9,int
+428,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",106,div,6.32828E+00,4.95083E+05,9,int
+429,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",101,sub,8.31894E-01,7.29939E-01,0,int
+430,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",102,div,3.51177E+01,6.40970E+03,9,int
+431,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",103,sub,3.51439E-15,3.61875E-15,0,int
+432,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",106,mul,1.68623E+00,1.16902E+00,2,int
+433,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,107,add,1.07969E-14,6.38160E-15,0,int
+434,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",100,div,1.98167E+02,8.80120E+05,9,int
+435,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",108,div,3.04144E+01,7.74208E+03,9,int
+436,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,106,sub,2.36245E-15,3.29567E-15,0,int
+437,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",107,add,3.94603E-02,4.29507E-02,0,int
+438,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",106,add,1.23187E-15,1.14614E-15,0,int
+439,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,101,mul,1.59727E-14,9.57111E-15,0,int
+440,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,106,mul,1.08336E-02,6.32695E-03,0,int
+441,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",103,sub,3.54955E-14,3.37756E-14,0,int
+442,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,109,sub,7.95245E-02,8.01061E-02,0,int
+443,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",103,add,5.45050E-15,1.02128E-14,0,int
+444,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",106,mul,8.60105E-15,2.04792E-14,0,int
+445,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",109,add,2.14194E-01,1.24459E-01,0,int
+446,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,100,mul,1.08895E-06,3.53065E-07,0,int
+447,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",101,mul,1.20919E-14,1.96944E-14,0,int
+448,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,100,div,8.96120E+00,1.78460E+02,9,int
+449,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",102,div,9.25383E-13,1.00101E-07,1,int
+450,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",101,sub,2.43864E-15,1.15622E-15,0,int
+451,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",103,div,5.08855E-12,6.33608E-09,4,int
+452,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,104,add,8.04859E-02,4.97625E-02,0,int
+453,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",103,add,5.45050E-15,1.02128E-14,0,int
+454,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,105,sub,5.92960E-01,9.60466E-01,3,int
+455,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",100,mul,7.13558E+01,3.25928E+02,9,int
+456,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",107,mul,5.43170E-01,9.41925E-01,2,int
+457,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,104,div,7.93954E+00,5.94047E+04,9,int
+458,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,104,sub,3.77291E-01,6.55479E-01,1,int
+459,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,102,sub,5.05839E-02,8.02711E-02,0,int
+460,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",104,mul,1.32738E-14,2.05669E-14,0,int
+461,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,105,sub,5.92960E-01,9.60466E-01,3,int
+462,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",109,div,3.05976E+01,1.67785E+08,9,int
+463,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,109,sub,3.57135E-15,3.31517E-15,0,int
+464,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",100,div,2.30609E-11,3.81772E-07,2,int
+465,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",102,div,1.20489E+01,6.31194E+05,9,int
+466,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",101,add,3.57168E-01,1.30365E-01,0,int
+467,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",104,div,2.54532E+01,8.24765E+05,9,int
+468,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",107,div,3.10223E+01,5.55556E+03,9,int
+469,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",109,div,8.33292E-05,6.80819E-01,9,int
+470,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",102,add,4.00145E+00,3.45458E+00,1,int
+471,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,108,sub,5.23912E-01,6.94479E-01,4,int
+472,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",106,mul,7.84112E-01,9.49892E-01,0,int
+473,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",106,add,2.58751E-14,3.32191E-14,0,int
+474,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,101,mul,1.18234E-06,3.67771E-07,0,int
+475,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",104,mul,1.16683E+00,1.21106E+00,2,int
+476,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,100,sub,5.63972E-15,3.25259E-15,0,int
+477,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,100,mul,5.22274E-15,9.78788E-15,0,int
+478,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,101,div,9.67018E+03,8.41567E+04,9,int
+479,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",105,mul,3.93046E-01,9.39918E-01,0,int
+480,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,100,add,1.10793E-06,3.61147E-07,0,int
+481,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,100,div,8.15810E+01,3.92381E+03,9,int
+482,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",100,mul,6.07355E-01,9.65786E-01,0,int
+483,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",100,sub,3.39704E-15,4.93416E-15,3,int
+484,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",106,add,2.93255E-15,3.70275E-15,0,int
+485,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",106,div,1.00393E+01,8.61809E+05,9,int
+486,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",100,div,2.59570E+02,3.64943E+06,9,int
+487,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",104,sub,2.53506E-14,3.42342E-14,0,int
+488,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",105,mul,3.55878E+01,3.39606E+02,9,int
+489,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",105,add,4.33820E-14,3.37955E-14,0,int
+490,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",103,div,3.69414E+00,2.40135E+04,9,int
+491,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",105,add,1.89085E-15,1.14474E-15,0,int
+492,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,109,sub,7.77285E-01,6.92895E-01,2,int
+493,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",100,sub,2.55208E-14,3.40532E-14,0,int
+494,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,103,mul,6.64263E-03,7.53367E-03,0,int
+495,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,105,sub,2.89835E-15,3.25681E-15,0,int
+496,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",105,mul,2.40008E-01,3.61134E-01,0,int
+497,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,104,sub,2.36119E-16,2.02348E-16,0,int
+498,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",101,mul,8.65244E+01,5.63893E+01,9,int
+499,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",109,mul,7.19659E-01,1.05489E+00,6,int
+500,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",100,sub,3.10213E-15,3.69925E-15,0,int
+501,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",101,mul,1.44181E+00,1.07226E+00,3,int
+502,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",108,sub,5.88696E-01,7.20696E-01,0,int
+503,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,104,mul,3.10406E-09,3.30629E-07,0,int
+504,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",106,sub,2.54056E-15,3.74324E-15,0,int
+505,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,101,sub,4.83598E-15,3.30761E-15,0,int
+506,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",105,mul,2.67913E-01,9.83579E-01,0,int
+507,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",102,mul,7.52105E+01,5.64489E+01,6,int
+508,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",101,add,1.47658E-01,1.86032E-01,0,int
+509,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",106,mul,3.67168E-16,3.59723E-16,0,int
+510,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",108,sub,1.46259E+00,3.01400E+01,9,int
+511,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",104,sub,5.10881E-01,8.07548E-01,1,int
+512,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",109,mul,3.23656E+00,2.89263E+00,9,int
+513,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,103,mul,5.14904E-15,1.10679E-14,0,int
+514,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,106,sub,7.62606E-02,8.04758E-02,0,int
+515,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,102,mul,2.62146E-15,9.69824E-15,0,int
+516,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,107,mul,4.99083E-13,3.55766E-07,0,int
+517,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,105,sub,2.89835E-15,3.25681E-15,0,int
+518,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",104,div,4.21050E+01,8.82859E+05,9,int
+519,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,107,sub,7.29114E-02,8.06617E-02,0,int
+520,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",100,mul,2.81677E-14,2.06815E-14,0,int
+521,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",107,div,5.93890E-11,3.26755E-09,6,int
+522,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",106,sub,1.24337E-15,1.14567E-15,0,int
+523,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,102,div,2.34961E+02,3.89714E+05,9,int
+524,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",101,add,1.47658E-01,1.86032E-01,0,int
+525,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",106,sub,4.39279E-01,5.69947E+02,9,int
+526,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",105,div,1.07398E+01,5.42119E+04,9,int
+527,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",103,sub,6.35368E-01,7.16561E-01,3,int
+528,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",106,sub,7.97118E-01,7.51530E-01,2,int
+529,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",102,add,3.82902E-15,3.66859E-15,0,int
+530,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",107,sub,4.48686E-15,4.91569E-15,0,int
+531,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,101,sub,7.46309E-01,7.57659E-01,1,int
+532,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",101,div,1.61200E+01,4.02550E+05,9,int
+533,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",100,mul,5.44856E-16,3.55642E-16,0,int
+534,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",107,add,3.36984E+00,3.45586E+00,2,int
+535,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,105,sub,5.19965E-02,8.01135E-02,0,int
+536,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",109,sub,6.48036E-01,8.32464E-01,2,int
+537,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",106,mul,1.07326E-01,1.10407E-01,0,int
+538,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",106,mul,8.60105E-15,2.04792E-14,0,int
+539,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",106,add,1.59769E-01,1.85912E-01,0,int
+540,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",108,div,1.39757E+01,4.40012E+04,9,int
+541,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",103,div,4.55199E-04,3.41679E+00,9,int
+542,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",101,div,4.09193E-03,1.07731E+00,9,int
+543,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,104,add,8.04859E-02,4.97625E-02,0,int
+544,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",103,mul,2.72497E-01,3.58230E-01,0,int
+545,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",105,sub,6.57189E-16,1.17583E-15,0,int
+546,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",109,add,3.78478E-01,4.46638E-01,0,int
+547,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",108,div,2.54615E+01,5.91708E+04,9,int
+548,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",101,sub,2.96014E-01,2.78649E-01,0,int
+549,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",106,sub,5.67217E-15,4.87571E-15,0,int
+550,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",102,sub,4.52243E-15,3.70170E-15,0,int
+551,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",104,div,2.56892E+01,8.24852E+05,9,int
+552,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",104,mul,3.53854E-01,3.59709E-01,0,int
+553,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",102,mul,7.52105E+01,5.64489E+01,6,int
+554,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",101,div,8.61756E-13,5.24843E-09,2,int
+555,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",100,div,2.55851E+01,1.35510E+06,9,int
+556,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",107,div,5.82789E-11,7.74033E-10,2,int
+557,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,107,add,4.79949E-13,3.62622E-07,0,int
+558,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,101,mul,7.37857E-03,7.73314E-03,0,int
+559,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",101,mul,1.12988E+00,9.54368E-01,0,int
+560,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,109,sub,3.57135E-15,3.31517E-15,0,int
+561,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",100,add,5.70592E-01,4.52843E-01,0,int
+562,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",105,sub,7.38580E-15,4.90577E-15,0,int
+563,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",104,sub,5.07691E-15,4.89363E-15,0,int
+564,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",101,mul,1.66982E+00,1.03735E+00,9,int
+565,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",101,sub,8.31894E-01,7.29939E-01,0,int
+566,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",102,div,9.25383E-13,1.00101E-07,2,int
+567,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,109,div,5.50529E-03,1.74757E+01,9,int
+568,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,102,sub,5.94000E-01,7.68633E-01,1,int
+569,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,100,add,7.74554E-16,3.90360E-16,0,int
+570,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",104,mul,4.66516E+01,5.61923E+01,2,int
+571,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",106,sub,3.44213E-14,3.38269E-14,0,int
+572,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",102,add,1.46349E-01,1.84367E-01,0,int
+573,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",108,div,1.43087E+01,4.40029E+04,9,int
+574,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,100,div,9.13496E+02,4.21545E+04,9,int
+575,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,102,mul,5.98710E-07,3.70044E-07,0,int
+576,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",106,mul,3.63034E-01,9.67090E-01,0,int
+577,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",102,mul,1.37882E+00,1.17148E+00,3,int
+578,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",102,sub,1.89064E-15,1.16076E-15,0,int
+579,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,100,add,3.06662E-02,4.94806E-02,0,int
+580,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,104,add,2.37223E-16,3.97086E-16,0,int
+581,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",103,div,1.37640E+02,1.60077E+05,9,int
+582,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",102,mul,3.17385E-01,3.61545E-01,0,int
+583,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",106,div,1.00393E+01,8.61809E+05,9,int
+584,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",109,mul,4.92794E+01,5.60527E+01,9,int
+585,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,106,sub,8.19361E-01,6.84841E-01,1,int
+586,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,100,div,1.06305E+03,5.24190E+04,9,int
+587,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",108,sub,1.17963E+00,9.16099E-01,4,int
+588,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",108,sub,5.88375E-15,3.83467E-15,1,int
+589,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",103,sub,5.20744E-01,8.26658E-01,3,int
+590,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",104,mul,7.47309E-13,7.74857E-13,0,int
+591,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,102,add,6.11847E-07,3.76046E-07,0,int
+592,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,108,mul,1.60129E-15,1.02654E-14,0,int
+593,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",100,add,2.68818E-01,1.85644E-01,0,int
+594,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",108,sub,8.00683E-16,1.15277E-15,0,int
+595,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",102,div,1.45953E+01,7.14271E+05,9,int
+596,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",104,sub,4.27959E-15,4.90419E-15,2,int
+597,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,107,add,4.79949E-13,3.62622E-07,0,int
+598,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",100,sub,8.75005E-01,7.75372E-01,1,int
+599,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,104,sub,6.21398E-02,7.95655E-02,0,int
+600,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,103,mul,6.64263E-03,7.53367E-03,0,int
+601,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",102,add,5.10837E-03,4.02508E-02,0,int
+602,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,103,div,4.04477E+03,1.08238E+05,9,int
+603,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",108,div,2.97986E+01,7.81638E+03,9,int
+604,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,100,add,3.08609E-02,5.02862E-02,0,int
+605,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",108,sub,9.10389E-01,8.02939E-01,3,int
+606,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",104,sub,9.07210E-01,9.43442E-01,1,int
+607,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",100,mul,6.07355E-01,9.65786E-01,0,int
+608,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,103,add,4.47677E-02,5.01353E-02,0,int
+609,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",106,add,3.51398E+00,3.44371E+00,1,int
+610,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",100,div,2.02780E+02,8.80115E+05,9,int
+611,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,101,add,5.08148E-02,4.93230E-02,0,int
+612,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",107,add,4.58041E-01,4.48105E-01,0,int
+613,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,109,mul,9.10153E-15,1.08609E-14,0,int
+614,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,104,div,2.27636E-01,3.07461E+03,9,int
+615,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",109,div,9.51842E-03,8.38810E+01,9,int
+616,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",108,mul,5.27753E-15,2.06350E-14,0,int
+617,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,102,div,1.33563E+00,3.88763E+03,9,int
+618,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,104,sub,3.77791E-15,3.23757E-15,2,int
+619,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",106,sub,9.82571E-01,9.75395E-01,1,int
+620,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",101,mul,1.38554E-12,7.88293E-13,0,int
+621,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,104,div,8.76137E-02,6.36812E+02,9,int
+622,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,106,sub,8.19361E-01,6.84841E-01,1,int
+623,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,103,add,5.32907E-15,6.27503E-15,0,int
+624,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",105,sub,4.67877E-15,3.76060E-15,0,int
+625,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,108,div,4.86745E-01,6.47328E+02,9,int
+626,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,106,sub,7.62606E-02,8.04758E-02,0,int
+627,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",102,mul,1.19259E-01,1.11602E-01,0,int
+628,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",101,div,4.92939E+01,1.95884E+04,9,int
+629,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,103,div,2.32942E-10,2.65300E-08,1,int
+630,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",105,div,1.04790E+01,5.42117E+04,9,int
+631,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",101,div,1.67606E+01,4.02567E+05,9,int
+632,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",102,mul,6.53340E-13,7.78629E-13,0,int
+633,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",109,add,2.86169E+00,3.45193E+00,1,int
+634,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",109,mul,2.82230E-15,3.61909E-15,0,int
+635,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",101,mul,4.13740E+00,2.90381E+00,9,int
+636,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,105,sub,5.19965E-02,8.01135E-02,0,int
+637,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",102,div,5.27397E+01,2.49128E+04,9,int
+638,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",108,add,3.13423E-14,3.34993E-14,0,int
+639,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",105,mul,9.02996E-16,3.73571E-15,0,int
+640,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",102,sub,2.87160E-01,2.78405E-01,0,int
+641,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",107,mul,7.14825E+01,2.93863E+02,9,int
+642,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",102,add,6.49166E-16,1.14881E-15,0,int
+643,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",108,add,2.87622E-15,3.77538E-15,0,int
+644,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",104,div,4.91383E+01,5.11028E+04,9,int
+645,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",105,sub,2.08464E-01,2.78482E-01,0,int
+646,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",101,add,4.13428E-15,3.66040E-15,0,int
+647,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,106,mul,6.09305E-07,3.85206E-07,0,int
+648,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",104,div,3.82349E+01,8.99926E+03,9,int
+649,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",108,add,2.37335E-02,3.88090E-02,0,int
+650,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",106,mul,6.05030E+01,5.57424E+01,9,int
+651,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",107,add,3.96390E-15,3.79810E-15,0,int
+652,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",105,mul,1.17340E-14,2.09023E-14,0,int
+653,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",105,add,2.74565E+00,3.42834E+00,1,int
+654,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",107,add,1.56766E-15,1.15514E-15,0,int
+655,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",100,sub,3.61210E-01,2.78835E-01,0,int
+656,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,109,div,5.07324E+00,2.77715E+04,9,int
+657,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,102,mul,2.16190E-03,6.37735E-03,0,int
+658,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,106,mul,5.88723E-14,9.88950E-15,0,int
+659,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,101,mul,1.59727E-14,9.57110E-15,0,int
+660,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",107,mul,2.33996E-01,9.95541E-01,0,int
+661,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",102,sub,2.94827E-15,4.95482E-15,3,int
+662,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,108,div,3.43610E-05,5.24064E-01,4,int
+663,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",102,add,5.10837E-03,4.02508E-02,0,int
+664,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,105,div,2.40079E+01,8.77010E+05,9,int
+665,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,103,div,3.83650E-03,2.42658E+01,3,int
+666,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",106,div,4.88132E+00,4.95059E+05,9,int
+667,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",103,add,2.77383E-01,1.24317E-01,0,int
+668,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",105,mul,8.12150E-02,1.11441E-01,0,int
+669,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",104,div,4.21050E+01,8.82859E+05,9,int
+670,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",101,div,3.01134E+02,7.75272E+04,9,int
+671,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",103,div,5.81422E+01,6.98276E+04,9,int
+672,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,101,mul,1.18234E-06,3.67771E-07,0,int
+673,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",104,div,4.55083E+00,1.08062E+03,9,int
+674,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",100,mul,7.13558E+01,3.25928E+02,9,int
+675,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",100,mul,1.08755E+00,9.95544E-01,2,int
+676,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,106,mul,2.02655E-06,1.65213E-06,0,int
+677,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",105,add,1.52961E-01,1.85546E-01,0,int
+678,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,107,mul,2.73138E-07,1.56717E-06,0,int
+679,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",102,sub,1.89064E-15,1.16076E-15,0,int
+680,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",109,sub,3.77954E-15,3.72206E-15,0,int
+681,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,106,div,3.73899E-04,4.67823E+01,1,int
+682,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,103,add,4.35504E-02,4.93165E-02,0,int
+683,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,105,add,4.73925E-02,4.93132E-02,0,int
+684,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",105,add,4.33820E-14,3.37955E-14,0,int
+685,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",109,mul,5.53827E-01,9.87043E-01,0,int
+686,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,108,sub,5.09449E-02,8.00302E-02,0,int
+687,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,102,add,3.66265E-02,5.05264E-02,0,int
+688,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",106,sub,9.50192E-01,8.18179E-01,2,int
+689,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",101,add,1.86448E-14,3.37492E-14,0,int
+690,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",105,div,2.32109E+01,6.30737E+04,9,int
+691,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",101,sub,6.22094E-15,4.94404E-15,2,int
+692,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",109,add,4.63827E-15,3.75283E-15,0,int
+693,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",108,mul,6.46438E-01,9.41736E-01,2,int
+694,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,104,add,3.32782E-09,3.36835E-07,0,int
+695,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",100,add,1.04439E-14,1.03315E-14,0,int
+696,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,101,add,3.82095E-15,6.35642E-15,0,int
+697,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",106,mul,5.97901E-15,3.71164E-15,0,int
+698,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",105,add,2.03015E-01,1.28590E-01,0,int
+699,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",109,sub,2.82516E-14,3.42553E-14,0,int
+700,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,106,mul,5.88723E-14,9.88950E-15,0,int
+701,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,103,div,2.32942E-10,2.65300E-08,4,int
+702,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,109,add,9.22230E-07,3.33020E-07,0,int
+703,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",108,div,1.38857E+01,4.40015E+04,9,int
+704,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,108,add,5.20422E-02,4.97717E-02,0,int
+705,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",108,add,3.98897E+00,3.43516E+00,1,int
+706,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",106,sub,6.08164E+00,2.85333E+01,4,int
+707,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,104,sub,3.77791E-15,3.23757E-15,0,int
+708,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",106,sub,5.15869E-15,4.88950E-15,0,int
+709,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",104,mul,2.84137E-01,9.58447E-01,0,int
+710,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",101,div,5.97113E-04,3.21662E-01,9,int
+711,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,102,div,2.34961E+02,3.89714E+05,9,int
+712,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",103,mul,2.19601E-14,2.01787E-14,0,int
+713,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",101,sub,7.71860E+00,6.17866E+00,9,int
+714,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",101,div,3.89689E-13,9.39287E-10,2,int
+715,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",104,div,4.38534E+01,5.10867E+04,9,int
+716,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",106,add,3.51398E+00,3.44371E+00,1,int
+717,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",103,add,1.80164E-01,1.84634E-01,0,int
+718,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,100,sub,3.52483E-16,2.03287E-16,0,int
+719,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",105,sub,6.61511E-01,8.18177E-01,3,int
+720,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",101,div,1.61200E+01,4.02550E+05,9,int
+721,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",109,sub,8.08395E-16,1.16071E-15,0,int
+722,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,105,mul,1.10604E-06,3.45187E-07,0,int
+723,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,101,div,3.25251E+03,4.82842E+04,9,int
+724,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",108,add,2.37335E-02,3.88090E-02,0,int
+725,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",108,add,3.13423E-14,3.34993E-14,0,int
+726,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,108,div,2.76254E+01,4.44373E+04,9,int
+727,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",101,mul,1.84318E+00,9.94718E-01,0,int
+728,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",109,sub,6.48036E-01,8.32464E-01,2,int
+729,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",109,div,2.85311E+01,1.73063E+05,9,int
+730,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",109,sub,6.74635E-15,4.92087E-15,0,int
+731,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",105,div,1.03849E+01,5.42116E+04,9,int
+732,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,107,div,7.90214E-02,1.11894E+03,9,int
+733,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",102,sub,4.40067E-15,4.90590E-15,3,int
+734,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,102,sub,2.46714E-16,2.08630E-16,0,int
+735,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",108,mul,6.46438E-01,9.41736E-01,2,int
+736,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",107,sub,6.57328E-01,7.32724E-01,0,int
+737,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",102,div,5.27397E+01,2.49128E+04,9,int
+738,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",101,sub,3.75394E-14,3.38859E-14,2,int
+739,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",108,sub,1.17963E+00,9.16099E-01,4,int
+740,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,102,add,4.09395E-15,6.36138E-15,0,int
+741,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",109,sub,6.74635E-15,4.92087E-15,3,int
+742,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",107,mul,7.17444E-01,2.88162E+01,9,int
+743,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,101,sub,3.02248E-16,2.06726E-16,0,int
+744,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,103,sub,1.00871E-16,2.01093E-16,0,int
+745,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,106,div,5.08352E+01,5.94336E+05,9,int
+746,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,106,add,6.19296E-15,6.27530E-15,0,int
+747,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",102,add,7.09367E-01,4.47479E-01,0,int
+748,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",103,add,6.71685E-15,1.00936E-14,0,int
+749,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,106,sub,7.62606E-02,8.04758E-02,0,int
+750,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,108,sub,5.23912E-01,6.94479E-01,4,int
+751,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,108,add,5.62050E-15,6.32164E-15,0,int
+752,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,101,sub,5.50391E-02,7.93139E-02,0,int
+753,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,107,div,8.36484E+00,6.51127E+05,9,int
+754,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",105,sub,7.42671E-01,8.33939E-01,3,int
+755,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",106,add,1.50214E-01,1.38061E-01,0,int
+756,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",107,mul,1.79837E-15,3.68891E-15,0,int
+757,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",104,mul,1.54790E-14,3.64750E-15,0,int
+758,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",108,mul,9.44561E-01,9.77265E-01,0,int
+759,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,106,div,3.73899E-04,4.67823E+01,1,int
+760,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",105,add,8.40994E-15,1.02312E-14,0,int
+761,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",101,mul,8.65244E+01,5.63893E+01,9,int
+762,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",102,sub,4.04522E-14,3.43166E-14,0,int
+763,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",103,mul,3.18514E+00,2.86738E+00,6,int
+764,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,107,div,1.15760E+01,6.53703E+05,9,int
+765,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,108,add,5.20422E-02,4.97717E-02,0,int
+766,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",108,div,3.96638E+02,2.99487E+04,9,int
+767,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",103,div,3.69414E+00,2.40135E+04,9,int
+768,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",102,mul,4.43442E-15,3.59278E-15,0,int
+769,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,104,div,3.00662E+00,4.31680E+04,9,int
+770,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",104,sub,5.10881E-01,8.07548E-01,1,int
+771,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",102,sub,4.40067E-15,4.90590E-15,0,int
+772,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",100,sub,1.08657E+00,7.31273E-01,0,int
+773,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,107,div,1.38987E-01,7.50662E+03,9,int
+774,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",100,add,7.14344E-14,3.38907E-14,0,int
+775,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",102,add,1.23954E-01,1.28292E-01,0,int
+776,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",109,div,2.14973E+01,1.30943E+08,9,int
+777,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,107,sub,7.29114E-02,8.06617E-02,0,int
+778,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,100,add,1.23929E-14,6.24576E-15,0,int
+779,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,101,mul,7.37857E-03,7.73314E-03,0,int
+780,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,104,add,3.79557E-15,6.35337E-15,0,int
+781,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",104,mul,1.32738E-14,2.05669E-14,0,int
+782,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",101,mul,3.83022E-01,3.62966E-01,0,int
+783,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",101,div,4.92939E+01,1.95884E+04,9,int
+784,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,107,div,5.96735E-01,2.11011E+04,9,int
+785,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,108,sub,2.77740E-15,3.31502E-15,0,int
+786,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",102,sub,1.07591E+00,7.75804E-01,1,int
+787,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",104,add,3.07726E+00,3.45715E+00,1,int
+788,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",109,add,1.32012E-14,1.01086E-14,0,int
+789,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",105,mul,4.34456E-13,7.73590E-13,0,int
+790,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",109,add,2.86169E+00,3.45193E+00,1,int
+791,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",105,sub,5.17403E-01,7.26570E-01,0,int
+792,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,102,mul,5.98710E-07,3.70044E-07,0,int
+793,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",100,add,2.46249E-02,4.04913E-02,0,int
+794,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",105,add,1.46304E-02,4.10433E-02,0,int
+795,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",107,add,2.48142E-02,1.24284E-01,0,int
+796,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",103,mul,4.98524E-16,3.55527E-16,0,int
+797,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",102,div,6.16537E-13,1.98069E-08,1,int
+798,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",103,mul,3.29304E-01,9.71815E-01,2,int
+799,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",107,sub,4.48686E-15,4.91569E-15,1,int
+800,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,102,add,4.09395E-15,6.36138E-15,0,int
+801,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",108,mul,9.44561E-01,9.77265E-01,0,int
+802,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",106,add,8.84073E-02,4.04800E-02,0,int
+803,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,105,div,2.45493E-03,3.66153E+02,7,int
+804,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",100,sub,3.10213E-15,3.69925E-15,0,int
+805,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",107,div,7.07975E+02,3.21230E+05,9,int
+806,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",109,div,1.81225E-04,1.10381E+03,9,int
+807,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,107,sub,5.14259E-15,3.26746E-15,0,int
+808,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",105,div,6.11466E+02,3.29788E+05,9,int
+809,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",109,sub,8.16586E-01,7.28382E-01,0,int
+810,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",105,add,1.76183E-15,3.71498E-15,0,int
+811,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,105,add,4.73925E-02,4.93132E-02,0,int
+812,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",105,div,1.01241E+01,5.42117E+04,9,int
+813,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",108,div,2.97986E+01,7.81638E+03,9,int
+814,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",107,mul,7.14825E+01,2.93863E+02,9,int
+815,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",108,add,1.63473E-01,1.86470E-01,0,int
+816,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",107,add,9.61080E-15,1.02707E-14,0,int
+817,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",109,add,1.94950E-01,1.85872E-01,0,int
+818,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",106,mul,9.03410E-13,7.74461E-13,0,int
+819,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",106,sub,6.08164E+00,2.85333E+01,4,int
+820,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",106,div,1.77699E+03,6.79290E+04,9,int
+821,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",101,add,1.02837E-15,1.15500E-15,0,int
+822,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",102,add,2.77937E-14,3.37769E-14,0,int
+823,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",105,add,1.08631E-14,9.97016E-15,0,int
+824,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",100,add,2.46249E-02,4.04913E-02,0,int
+825,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",103,mul,2.08476E+00,2.80929E+00,1,int
+826,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",103,div,5.08855E-12,6.33608E-09,1,int
+827,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,106,div,3.37159E+01,5.49479E+05,9,int
+828,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",100,add,7.14344E-14,3.38907E-14,0,int
+829,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",108,mul,5.47753E+01,5.59125E+01,9,int
+830,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,101,sub,7.46309E-01,7.57659E-01,1,int
+831,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",104,sub,9.07210E-01,9.43442E-01,1,int
+832,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,103,add,4.35504E-02,4.93165E-02,0,int
+833,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,109,mul,7.70077E-03,6.41540E-03,0,int
+834,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",108,div,2.55300E+01,5.91712E+04,9,int
+835,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",106,sub,6.06650E-01,7.29834E-01,0,int
+836,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",102,mul,1.38244E+00,1.07576E+00,2,int
+837,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,109,mul,7.70077E-03,6.41540E-03,0,int
+838,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,100,mul,1.08895E-06,3.53065E-07,0,int
+839,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",106,mul,9.03410E-13,7.74462E-13,0,int
+840,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",106,sub,4.05291E-05,1.43760E-03,9,int
+841,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,106,add,6.28577E-07,3.90830E-07,0,int
+842,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,106,div,3.34061E-13,4.24031E-07,1,int
+843,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",100,sub,4.30690E-15,4.92538E-15,0,int
+844,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",105,sub,6.57189E-16,1.17583E-15,0,int
+845,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,103,mul,5.22534E-03,6.31490E-03,0,int
+846,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",109,mul,1.08154E-01,1.10466E-01,0,int
+847,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,103,sub,5.94679E-01,6.70289E-01,2,int
+848,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",107,add,2.22817E-14,3.48379E-14,0,int
+849,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,101,add,5.14153E-02,5.01889E-02,0,int
+850,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",105,add,8.40994E-15,1.02312E-14,0,int
+851,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",107,sub,3.57093E-15,4.92121E-15,0,int
+852,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",107,add,1.95819E-01,1.87228E-01,0,int
+853,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",101,mul,1.20919E-14,1.96944E-14,0,int
+854,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",109,mul,6.62262E-13,7.58944E-13,0,int
+855,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",104,div,4.38534E+01,5.10867E+04,9,int
+856,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",103,sub,6.93403E-01,7.24803E-01,0,int
+857,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",108,add,1.05922E-14,1.02259E-14,0,int
+858,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",101,add,3.69751E-01,4.46767E-01,0,int
+859,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",105,sub,4.19864E+00,6.19784E+00,5,int
+860,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",100,add,1.02570E-15,1.14640E-15,0,int
+861,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",103,mul,2.19601E-14,2.01787E-14,0,int
+862,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",107,add,1.95819E-01,1.87228E-01,0,int
+863,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",103,add,2.66819E+00,3.43839E+00,2,int
+864,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,100,div,9.13496E+02,4.21545E+04,9,int
+865,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",108,sub,5.88696E-01,7.20696E-01,0,int
+866,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",106,sub,2.81049E-01,2.77261E-01,0,int
+867,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",107,div,9.10921E-11,5.15111E-09,2,int
+868,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,106,add,6.28577E-07,3.90830E-07,0,int
+869,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",101,div,3.01134E+02,7.75272E+04,9,int
+870,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",100,mul,1.66054E-15,3.71916E-15,1,int
+871,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,107,sub,7.64669E-01,7.67958E-01,2,int
+872,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",107,add,1.15465E-14,1.01825E-14,0,int
+873,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",106,div,5.49410E+00,1.72956E+04,9,int
+874,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,100,mul,6.53163E-03,6.27428E-03,0,int
+875,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",106,add,2.58751E-14,3.32191E-14,0,int
+876,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,101,sub,5.50391E-02,7.93139E-02,0,int
+877,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",104,mul,3.96273E-01,9.74551E-01,0,int
+878,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",104,add,1.71280E-02,3.95253E-02,0,int
+879,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",107,div,1.53014E-12,7.60383E-10,2,int
+880,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",109,mul,9.88530E-01,1.26997E+00,4,int
+881,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",100,add,1.28017E-14,1.00680E-14,0,int
+882,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",102,mul,1.72718E+00,1.39843E+00,8,int
+883,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",104,add,5.16969E-16,1.16257E-15,0,int
+884,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",107,div,9.10921E-11,5.15111E-09,6,int
+885,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",105,div,2.20093E+01,6.30734E+04,9,int
+886,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,106,add,3.87060E-16,3.92206E-16,0,int
+887,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",109,sub,2.82516E-14,3.42553E-14,2,int
+888,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",105,div,6.19562E+02,3.29750E+05,9,int
+889,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",103,sub,5.56479E+00,6.47429E+00,6,int
+890,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",102,mul,6.53340E-13,7.78627E-13,0,int
+891,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",102,mul,1.70233E+00,9.99900E-01,3,int
+892,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",108,mul,2.70190E-16,3.59434E-16,0,int
+893,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",108,div,1.37648E+01,4.39768E+04,9,int
+894,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,100,sub,1.04545E-01,8.04027E-02,0,int
+895,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,103,div,3.83650E-03,2.42658E+01,3,int
+896,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",101,sub,4.46518E-15,3.79786E-15,0,int
+897,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",106,mul,1.68623E+00,1.16902E+00,2,int
+898,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",107,div,7.07975E+02,3.21230E+05,9,int
+899,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",102,sub,7.69767E+00,6.50515E+00,3,int
+900,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",108,sub,5.88375E-15,3.83467E-15,0,int
+901,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",100,add,1.28017E-14,1.00680E-14,0,int
+902,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",105,div,7.45057E+01,7.41547E+04,9,int
+903,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",109,div,3.55228E-04,2.49518E+03,9,int
+904,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",107,div,2.66941E+03,5.22326E+04,9,int
+905,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",106,div,2.44520E-14,3.70332E-08,2,int
+906,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",104,div,3.82349E+01,8.99926E+03,9,int
+907,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",106,sub,1.51203E+00,1.97493E+00,8,int
+908,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",105,add,3.78996E-01,4.46363E-01,0,int
+909,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",103,mul,3.29304E-01,9.71815E-01,2,int
+910,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",102,sub,2.87160E-01,2.78405E-01,0,int
+911,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,105,mul,6.01483E-03,7.74806E-03,0,int
+912,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",108,mul,3.35289E-01,3.62293E-01,0,int
+913,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,100,add,3.06662E-02,4.94806E-02,0,int
+914,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",104,mul,2.44775E+00,2.92092E+00,9,int
+915,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",102,div,1.45953E+01,7.14271E+05,9,int
+916,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",106,div,1.66212E-05,1.55511E+00,9,int
+917,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",107,sub,6.40577E+00,6.05763E+00,6,int
+918,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,101,add,5.08148E-02,4.93230E-02,0,int
+919,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,109,add,5.98023E-02,4.98302E-02,0,int
+920,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",103,div,5.88689E+01,6.98267E+04,9,int
+921,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",109,mul,1.38481E-14,2.11883E-14,0,int
+922,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",100,sub,1.08657E+00,7.31273E-01,0,int
+923,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",109,mul,7.19659E-01,1.05489E+00,6,int
+924,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,105,mul,2.23859E-15,9.61701E-15,0,int
+925,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",100,add,1.77667E-01,1.25558E-01,0,int
+926,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,109,sub,7.95245E-02,8.01061E-02,0,int
+927,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",107,div,6.04585E-11,7.90795E-10,2,int
+928,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",104,add,1.07067E-14,1.03435E-14,0,int
+929,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",105,add,1.46304E-02,4.10433E-02,0,int
+930,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,105,add,4.84049E-02,5.01110E-02,0,int
+931,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",101,sub,7.71860E+00,6.17866E+00,9,int
+932,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,107,div,4.33182E-02,5.62360E+03,9,int
+933,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",109,sub,5.77708E-15,4.92083E-15,4,int
+934,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",108,add,2.87622E-15,3.77538E-15,0,int
+935,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,107,add,4.34736E-02,5.00870E-02,0,int
+936,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",101,sub,5.69358E-15,4.99238E-15,2,int
+937,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",103,add,5.35444E-15,3.78107E-15,0,int
+938,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",105,add,1.76183E-15,3.71498E-15,0,int
+939,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",101,div,3.94546E-13,5.21073E-09,2,int
+940,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",107,sub,1.14925E-15,1.13824E-15,0,int
+941,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",101,sub,2.96014E-01,2.78649E-01,0,int
+942,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",104,add,2.76627E-02,1.25489E-01,0,int
+943,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",104,div,2.58902E+01,8.24851E+05,9,int
+944,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",108,div,2.73932E+01,5.91732E+04,9,int
+945,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",109,div,3.05976E+01,1.67785E+08,9,int
+946,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",100,add,2.68818E-01,1.85644E-01,0,int
+947,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",108,add,1.63473E-01,1.86470E-01,0,int
+948,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",107,div,5.75570E+02,2.19516E+05,9,int
+949,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",103,add,4.45234E-14,3.34645E-14,0,int
+950,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,101,sub,4.83598E-15,3.30761E-15,2,int
+951,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",109,div,2.85311E+01,1.73063E+05,9,int
+952,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",101,add,1.74179E-02,3.82367E-02,0,int
+953,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",107,add,9.61080E-15,1.02707E-14,0,int
+954,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",104,add,1.71280E-02,3.95253E-02,0,int
+955,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",108,add,5.24778E-01,4.50495E-01,0,int
+956,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",103,div,1.38505E+02,1.60076E+05,9,int
+957,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",109,add,1.92902E-15,1.14947E-15,0,int
+958,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",100,div,7.89079E+01,8.69278E+05,9,int
+959,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",108,div,3.94530E+02,2.99497E+04,9,int
+960,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",103,sub,2.36592E-01,2.77389E-01,0,int
+961,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",109,div,2.96054E+01,1.00282E+05,9,int
+962,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,104,mul,5.95443E-14,1.06784E-14,0,int
+963,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",106,add,1.23187E-15,1.14614E-15,0,int
+964,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,108,add,4.49750E-09,3.69350E-07,0,int
+965,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",102,add,1.51216E-14,1.00703E-14,0,int
+966,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,104,sub,6.21398E-02,7.95655E-02,0,int
+967,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",107,sub,6.40577E+00,6.05763E+00,6,int
+968,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",109,sub,8.16586E-01,7.28382E-01,0,int
+969,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",109,div,1.51111E-04,1.45615E+03,9,int
+970,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",105,add,2.74565E+00,3.42834E+00,1,int
+971,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,102,div,3.41290E-11,4.24839E-08,2,int
+972,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",102,div,1.52560E-14,1.00009E-07,1,int
+973,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,103,add,5.32907E-15,6.27503E-15,0,int
+974,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",104,sub,6.15614E-01,7.26396E-01,0,int
+975,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",106,sub,6.06650E-01,7.29834E-01,0,int
+976,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",101,add,1.02837E-15,1.15500E-15,0,int
+977,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,102,div,1.33563E+00,3.88763E+03,9,int
+978,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",100,add,1.88989E-15,3.61523E-15,0,int
+979,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",106,div,2.88546E-14,7.47877E-09,2,int
+980,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",108,div,2.54615E+01,5.91708E+04,9,int
+981,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",109,sub,3.77954E-15,3.72206E-15,0,int
+982,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",103,div,1.36397E+02,3.44177E+04,9,int
+983,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",108,mul,1.06214E+00,1.07897E+00,4,int
+984,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",105,add,2.03015E-01,1.28590E-01,0,int
+985,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,102,add,5.83404E-02,4.99887E-02,0,int
+986,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",109,div,2.57208E-02,1.65999E+05,9,int
+987,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",105,mul,3.47002E-16,3.58908E-16,0,int
+988,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",107,add,4.58041E-01,4.48105E-01,0,int
+989,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",100,add,1.77667E-01,1.25558E-01,0,int
+990,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,106,add,6.13121E-02,5.03088E-02,0,int
+991,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",107,add,3.96390E-15,3.79810E-15,0,int
+992,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",102,mul,1.40053E-14,2.07096E-14,0,int
+993,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,103,add,1.06521E-07,3.22426E-07,0,int
+994,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,107,div,7.90214E-02,1.11894E+03,9,int
+995,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",106,mul,1.15988E+00,9.41966E-01,0,int
+996,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",103,sub,6.35368E-01,7.16561E-01,3,int
+997,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",109,add,1.32012E-14,1.01086E-14,0,int
+998,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",109,add,2.48690E-14,3.46404E-14,0,int
+999,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,106,mul,2.02655E-06,1.65213E-06,0,int
+1000,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,102,mul,1.60122E-06,1.62087E-06,0,int
+1001,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",108,sub,9.10389E-01,8.02939E-01,3,int
+1002,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",102,mul,1.40053E-14,2.07096E-14,0,int
+1003,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",101,mul,1.50378E-01,1.11173E-01,0,int
+1004,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,100,add,1.23929E-14,6.24576E-15,0,int
+1005,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,109,div,1.17982E+01,7.29984E+04,9,int
+1006,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",106,add,1.59769E-01,1.85912E-01,0,int
+1007,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",103,add,2.66819E+00,3.43839E+00,2,int
+1008,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",100,div,2.02780E+02,8.80115E+05,9,int
+1009,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",102,add,1.51216E-14,1.00703E-14,0,int
+1010,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",109,div,1.62671E-02,1.64266E+05,9,int
+1011,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",104,div,3.58558E+00,1.16982E+05,9,int
+1012,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",103,mul,8.93156E-02,1.10308E-01,0,int
+1013,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,103,sub,5.94679E-01,6.70289E-01,2,int
+1014,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",107,sub,4.05665E-15,3.78994E-15,0,int
+1015,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,107,sub,3.21412E-16,2.04216E-16,0,int
+1016,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",103,add,1.00354E-15,1.15597E-15,0,int
+1017,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,108,sub,1.73588E-16,2.07189E-16,0,int
+1018,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",105,mul,1.03868E+00,1.43211E+00,9,int
+1019,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",106,div,3.41864E-14,3.74699E-08,2,int
+1020,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,101,sub,5.50391E-02,7.93139E-02,0,int
+1021,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",108,add,3.98897E+00,3.43516E+00,1,int
+1022,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",109,sub,5.77708E-15,4.92083E-15,0,int
+1023,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,101,div,9.67018E+03,8.41567E+04,9,int
+1024,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,109,div,1.95571E+01,1.26045E+05,9,int
+1025,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-4, 2)","(8, 10)",109,mul,2.71113E-01,9.73204E-01,0,int
+1026,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",104,sub,1.50037E-15,1.13635E-15,0,int
+1027,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",109,div,3.08307E+01,1.00281E+05,9,int
+1028,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",102,sub,4.52243E-15,3.70170E-15,0,int
+1029,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",103,add,3.65144E-01,4.49374E-01,0,int
+1030,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",107,mul,3.45823E-01,3.63805E-01,0,int
+1031,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",107,mul,7.63032E-13,7.90145E-13,0,int
+1032,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,102,mul,2.16190E-03,6.37735E-03,0,int
+1033,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",106,div,6.28385E-05,1.35151E-01,9,int
+1034,99,64000,nalu_minimal_arith,nalui1,uniform,"(-1, 1)","(-10, -5)",100,sub,1.33181E-15,1.16041E-15,0,int
+1035,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",102,sub,4.04522E-14,3.43166E-14,3,int
+1036,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",107,sub,6.57328E-01,7.32724E-01,0,int
+1037,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",104,mul,3.53854E-01,3.59709E-01,0,int
+1038,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",101,sub,2.43864E-15,1.15622E-15,0,int
+1039,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",100,sub,1.00055E+00,8.29938E-01,1,int
+1040,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",101,div,4.25737E+01,1.36181E+04,9,int
+1041,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",107,mul,2.89751E-14,2.08942E-14,0,int
+1042,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,108,div,3.33292E+00,1.19083E+04,9,int
+1043,99,64000,nalu_minimal_arith,nalui2,uniform,"(-5, 5)","(-10, -5)",104,add,2.62967E-14,3.40693E-14,0,int
+1044,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",108,sub,2.59281E-01,2.77191E-01,0,int
+1045,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,107,mul,7.36551E-03,6.46782E-03,0,int
+1046,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,108,sub,5.09449E-02,8.00302E-02,0,int
+1047,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",108,add,1.36432E-01,1.28439E-01,0,int
+1048,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,108,mul,1.89428E-06,1.57095E-06,0,int
+1049,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",102,div,1.52469E-14,1.00009E-07,2,int
+1050,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,103,sub,5.18676E-02,7.95557E-02,0,int
+1051,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",101,add,1.86448E-14,3.37492E-14,0,int
+1052,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",100,sub,8.75005E-01,7.75372E-01,1,int
+1053,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",102,div,6.14894E-14,2.21394E-09,1,int
+1054,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,108,mul,3.15495E-03,6.39012E-03,0,int
+1055,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",100,sub,1.33181E-15,1.16041E-15,0,int
+1056,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",104,add,5.16969E-16,1.16257E-15,0,int
+1057,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",109,add,8.58341E-15,1.00268E-14,0,int
+1058,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",106,mul,3.63034E-01,9.67090E-01,0,int
+1059,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,103,sub,1.61394E-15,3.21748E-15,0,int
+1060,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",106,mul,1.06890E+00,9.41810E-01,3,int
+1061,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",108,add,1.36432E-01,1.28439E-01,0,int
+1062,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",102,sub,8.21607E-01,7.28023E-01,0,int
+1063,99,64000,nalu_minimal_arith,nalui2,exponential,0.8,0.5,108,add,5.62050E-15,6.32164E-15,0,int
+1064,99,64000,nalu_minimal_arith,nalui2,exponential,0.2,0.5,104,mul,4.35862E-02,6.29885E-03,0,int
+1065,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,108,div,3.43610E-05,5.24064E-01,4,int
+1066,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",101,div,2.19807E-14,1.66759E-08,2,int
+1067,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.8,0.5,104,sub,3.77291E-01,6.55479E-01,1,int
+1068,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",100,sub,1.00055E+00,8.29938E-01,1,int
+1069,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",104,sub,2.53506E-14,3.42342E-14,5,int
+1070,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",103,div,6.63394E-03,1.88756E+01,9,int
+1071,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",103,sub,5.20744E-01,8.26658E-01,3,int
+1072,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",106,add,4.64009E-01,4.48016E-01,0,int
+1073,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",107,mul,3.45823E-01,3.63805E-01,0,int
+1074,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",104,div,3.87155E+01,8.99917E+03,9,int
+1075,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",105,sub,3.86778E-15,4.95780E-15,0,int
+1076,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",109,sub,5.80215E+00,6.51951E+00,4,int
+1077,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",105,mul,1.17340E-14,2.09023E-14,0,int
+1078,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",107,div,5.57130E+02,2.19522E+05,9,int
+1079,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",100,sub,2.55208E-14,3.40532E-14,7,int
+1080,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",104,add,1.66356E-14,1.01547E-14,0,int
+1081,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",103,sub,5.68800E-15,4.81848E-15,2,int
+1082,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",106,add,1.50214E-01,1.38061E-01,0,int
+1083,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,107,mul,4.99083E-13,3.55766E-07,0,int
+1084,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",104,div,4.19477E+01,8.82859E+05,9,int
+1085,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,100,sub,1.04545E-01,8.04027E-02,0,int
+1086,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-5, 5)","(-10, -5)",101,add,4.28645E+00,3.44405E+00,1,int
+1087,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",105,sub,4.67877E-15,3.76060E-15,0,int
+1088,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",104,div,5.46153E+00,1.15809E+05,9,int
+1089,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-1, 1)","(-10, -5)",102,div,1.20489E+01,6.31194E+05,9,int
+1090,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",101,add,5.45397E-15,9.86742E-15,0,int
+1091,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-2, 4)","(8, 10)",104,mul,3.96273E-01,9.74551E-01,0,int
+1092,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",107,add,2.48120E-02,1.24284E-01,0,int
+1093,99,64000,nalu_minimal_arith,nalui1,normal,"(-2, 4)","(8, 10)",107,mul,2.89751E-14,2.08942E-14,0,int
+1094,99,64000,nalu_minimal_arith,nalu__paperv,uniform,"(-5, 5)","(-10, -5)",105,div,9.50368E+00,5.42125E+04,9,int
+1095,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,103,mul,1.05202E-07,3.19890E-07,0,int
+1096,99,64000,nalu_minimal_arith,nalui2,normal,"(-4, 2)","(8, 10)",108,add,9.70887E-15,1.00876E-14,0,int
+1097,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",104,sub,4.27959E-15,4.90419E-15,0,int
+1098,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,104,mul,3.10406E-09,3.30629E-07,0,int
+1099,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,107,add,4.25827E-02,4.92340E-02,0,int
+1100,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,103,mul,5.22534E-03,6.31490E-03,0,int
+1101,99,64000,nalu_minimal_arith,nalu__paperv,exponential,0.2,0.5,104,sub,6.21398E-02,7.95655E-02,0,int
+1102,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",107,mul,8.04107E-01,1.28531E+00,9,int
+1103,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-4, 2)","(8, 10)",103,add,5.34038E-02,3.84879E-02,0,int
+1104,99,64000,nalu_minimal_arith,nalui2,normal,"(-2, 4)","(8, 10)",100,div,5.01626E-03,1.45674E+00,9,int
+1105,99,64000,nalu_minimal_arith,nalui1,exponential,0.2,0.5,103,sub,5.18676E-02,7.95557E-02,0,int
+1106,99,64000,nalu_minimal_arith,nalui1,normal,"(-3, 3)","(8, 10)",107,mul,5.40973E-01,9.55337E-01,0,int
+1107,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,109,mul,9.10153E-15,1.08609E-14,0,int
+1108,99,64000,nalu_minimal_arith,nalui2,normal,"(-3, 3)","(8, 10)",104,add,5.31286E-15,3.73149E-15,0,int
+1109,99,64000,nalu_minimal_arith,nalu__paperm,uniform,"(-1, 1)","(-10, -5)",106,mul,2.99509E-01,2.93035E-01,0,int
+1110,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,107,mul,1.94405E-14,1.02525E-14,0,int
+1111,99,64000,nalu_minimal_arith,nalui2,uniform,"(-1, 1)","(-10, -5)",104,mul,2.66227E-16,3.57942E-16,0,int
+1112,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-2, 4)","(8, 10)",109,mul,5.53827E-01,9.87043E-01,0,int
+1113,99,64000,nalu_minimal_arith,nalui1,uniform,"(-5, 5)","(-10, -5)",109,add,2.48690E-14,3.46404E-14,0,int
+1114,99,64000,nalu_minimal_arith,nalui1,exponential,0.8,0.5,101,add,3.82095E-15,6.35642E-15,0,int
+1115,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.8,0.5,101,div,1.49028E+02,1.37958E+03,9,int
+1116,99,64000,nalu_minimal_arith,nalu__paperv,normal,"(-3, 3)","(8, 10)",100,add,5.70592E-01,4.52843E-01,0,int
+1117,99,64000,nalu_minimal_arith,nalu__paperm,exponential,0.2,0.5,107,add,4.25827E-02,4.92340E-02,0,int
+1118,99,64000,nalu_minimal_arith,nalui1,normal,"(-4, 2)","(8, 10)",107,div,2.81926E+01,1.89433E+05,9,int
+1119,99,64000,nalu_minimal_arith,nalu__paperm,normal,"(-3, 3)","(8, 10)",105,add,3.78996E-01,4.46363E-01,0,int
