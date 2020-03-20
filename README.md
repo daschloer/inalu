@@ -23,7 +23,7 @@ If you find this code useful for your own research, please cite: https://arxiv.o
 
 	    @article{Schlor2020iNALUIN,
 	      title={iNALU: Improved Neural Arithmetic Logic Unit},
-	      author={Daniel Schlor and Markus Ring and Andreas Hotho},
+	      author={Daniel Schlör and Markus Ring and Andreas Hotho},
 	      journal={arXiv preprint arXiv:2003.07629},
 	      year={2020}
 	    }
