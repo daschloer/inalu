@@ -1,5 +1,5 @@
 # iNALU: Improved Neural Arithmetic Logic Unit
-This repository contains the code for the paper (paper)[https://arxiv.org/abs/2003.07629] **iNALU: Improved Neural Arithmetic Logic Unit** for Tensorflow 1.8.
+This repository contains the code for the paper [https://arxiv.org/abs/2003.07629](iNALU: Improved Neural Arithmetic Logic Unit) for Tensorflow 1.8.
 
 The python scripts are used as follows:
 * [nalu_architectures.py](nalu_architectures.py): contains the code for the iNALU and NALU cells as well as the two layer and deep NALU architecture
