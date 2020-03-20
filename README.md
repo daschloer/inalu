@@ -1,5 +1,5 @@
 # iNALU: Improved Neural Arithmetic Logic Unit
-This repository contains the code for the paper (iNALU: Improved Neural Arithmetic Logic Unit)[https://arxiv.org/abs/2003.07629] for Tensorflow 1.8.
+This repository contains the code for the paper (paper)[https://arxiv.org/abs/2003.07629] **iNALU: Improved Neural Arithmetic Logic Unit** for Tensorflow 1.8.
 
 The python scripts are used as follows:
 * [nalu_architectures.py](nalu_architectures.py): contains the code for the iNALU and NALU cells as well as the two layer and deep NALU architecture
@@ -20,9 +20,10 @@ The folder [experiment_runs](experiment_runs) contains result data and plots for
 The experimentplanner.py scripts also support checking out a designated git repository with the code (with a specific revision/tag) for mass-replication.
 
 If you find this code useful for your own research, please cite: https://arxiv.org/abs/2003.07629
-    @article{Schlor2020iNALUIN,
-      title={iNALU: Improved Neural Arithmetic Logic Unit},
-      author={Daniel Schlor and Markus Ring and Andreas Hotho},
-      journal={arXiv preprint arXiv:2003.07629},
-      year={2020}
-    }
+
+	    @article{Schlor2020iNALUIN,
+	      title={iNALU: Improved Neural Arithmetic Logic Unit},
+	      author={Daniel Schlor and Markus Ring and Andreas Hotho},
+	      journal={arXiv preprint arXiv:2003.07629},
+	      year={2020}
+	    }
